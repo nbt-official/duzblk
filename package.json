@@ -1,0 +1,11 @@
+{
+  "name": "pixeldrain-downloader",
+  "version": "1.0.0",
+  "description": "Static download page using Pixeldrain",
+  "scripts": {
+    "start": "live-server public"
+  },
+  "devDependencies": {
+    "live-server": "^1.2.2"
+  }
+}
