@@ -12,6 +12,11 @@
         "label": "Google Server",
         "url": "https://drive.google.com/uc?id=yourgooglefileid&export=download",
         "color": "blue"
+      },
+      {
+        "label": "Google Server 2",
+        "url": "https://drive.google.com/uc?id=yourgooglefileid&export=download",
+        "color": "skyblue"
       }
     ]
   },
