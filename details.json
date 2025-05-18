@@ -1,38 +1,26 @@
 {
-  "somefileid": {
-    "name": "Example Movie Title",
-    "size": "700 MB",
+  "movie123": {
+    "name": "Sample Movie",
+    "size": "900 MB",
     "downloads": [
       {
-        "label": "Direct Download",
-        "url": "https://example.com/downloads/example-movie-700mb.mp4",
+        "label": "Direct Download 480p",
+        "url": "https://example.com/movie123-480p.mp4",
         "color": "red"
       },
       {
-        "label": "Google Server",
-        "url": "https://drive.google.com/uc?id=yourgooglefileid&export=download",
+        "label": "Direct Download 720p",
+        "url": "https://example.com/movie123-720p.mp4",
         "color": "blue"
       },
       {
-        "label": "Google Server 2",
-        "url": "https://drive.google.com/uc?id=yourgooglefileid&export=download",
-        "color": "skyblue"
-      }
-    ]
-  },
-
-  "anotherfileid": {
-    "name": "Another Movie",
-    "size": "1.2 GB",
-    "downloads": [
-      {
-        "label": "Direct Download",
-        "url": "https://example.com/downloads/another-movie-1.2gb.mp4",
+        "label": "Google Drive 720p",
+        "url": "https://drive.google.com/uc?id=someid1&export=download",
         "color": "purple"
       },
       {
-        "label": "Google Server",
-        "url": "https://drive.google.com/uc?id=anothergooglefileid&export=download",
+        "label": "Google Drive 1080p",
+        "url": "https://drive.google.com/uc?id=someid2&export=download",
         "color": "skyblue"
       }
     ]
