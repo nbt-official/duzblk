@@ -1,8 +1,35 @@
 {
-  "nbt": {
-    "title": "The New Big Thing",
-    "size": "700MB",
-    "quality": "1080p",
-    "id": "nbt"
+  "somefileid": {
+    "name": "Example Movie Title",
+    "size": "700 MB",
+    "downloads": [
+      {
+        "label": "Direct Download",
+        "url": "https://example.com/downloads/example-movie-700mb.mp4",
+        "color": "red"
+      },
+      {
+        "label": "Google Server",
+        "url": "https://drive.google.com/uc?id=yourgooglefileid&export=download",
+        "color": "blue"
+      }
+    ]
+  },
+
+  "anotherfileid": {
+    "name": "Another Movie",
+    "size": "1.2 GB",
+    "downloads": [
+      {
+        "label": "Direct Download",
+        "url": "https://example.com/downloads/another-movie-1.2gb.mp4",
+        "color": "purple"
+      },
+      {
+        "label": "Google Server",
+        "url": "https://drive.google.com/uc?id=anothergooglefileid&export=download",
+        "color": "skyblue"
+      }
+    ]
   }
 }
